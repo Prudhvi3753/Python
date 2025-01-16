@@ -131,5 +131,45 @@ if(w=="sunny"):
 else:
     print("no playing")'''
 
-s='hello world'
-print(s[::3])
+#s='hello world'
+#print(s[::3])
+
+'''a=5
+for i in range(1,a+1):
+    print(i)
+while(a!=0):
+    print(a)
+    a-=1'''
+
+#sum of n natural numbers
+
+'''a=5
+sum=0
+for i in range(1,a+1):
+    sum+=i
+print(sum)'''
+
+#even numbers
+
+'''a=10
+for i in range(1,a+1):
+    if(i%2==0):
+        print(i)'''
+
+#multiplication table
+
+'''a=2
+for i in range(1,11):
+    print(f"{a}*{i}={a*i}")'''
+
+#factorial
+'''a=5
+fact=1
+for i in range(1,a+1):
+    fact*=i
+print(fact)
+f=1
+while(a!=0):
+    f*=a
+    a-=1
+print(f)'''
