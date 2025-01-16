@@ -119,7 +119,7 @@ if(a>5):
     print("greater than 5")'''
 
 #nested loop
-w=input("enter weather")
+'''w=input("enter weather")
 t=input("enter time")
 if(w=="sunny"):
     if(t=="day"):
@@ -129,4 +129,7 @@ if(w=="sunny"):
     else:
         print("go to sleep")    
 else:
-    print("no playing")
+    print("no playing")'''
+
+s='hello world'
+print(s[::3])
